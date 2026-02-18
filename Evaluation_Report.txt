@@ -1,0 +1,23 @@
+RAG EVALUATION REPORT
+==================================================
+
+Q: What are the main terms of this contract?
+  Relevance:    5/5
+  Groundedness: 5/5
+  Completeness: 4/5
+  Overall:      4/5
+
+Q: What is the termination clause?
+  Relevance:    5/5
+  Groundedness: 5/5
+  Completeness: 5/5
+  Overall:      5/5
+
+Q: What are the payment terms?
+  Relevance:    5/5
+  Groundedness: 4/5
+  Completeness: 4/5
+  Overall:      4/5
+
+--------------------------------------------------
+⭐ Average Overall Score: 4.3/5
